@@ -1,0 +1,214 @@
+timestamp,stage,url,status_code,method,error,referrer
+2026-10-28T04:03:17.103676+00:00,directory_proxy,https://law.usnews.com/law-firms/advent-llp-161218,200,GET,,directory snapshot
+2026-10-28T04:03:17.103723+00:00,firm_proxy,https://www.adventip.com/,200,GET,,homepage
+2026-10-28T04:03:17.103742+00:00,firm_proxy,https://www.adventip.com/our-team,200,GET,,attorney listing
+2026-10-28T04:03:17.103761+00:00,firm_proxy,https://www.adventip.com/kevin-west,200,GET,,attorney bio
+2026-10-28T04:03:17.103777+00:00,firm_proxy,https://www.adventip.com/ryan-grace,200,GET,,attorney bio
+2026-10-28T04:03:17.103796+00:00,firm_proxy,https://www.adventip.com/dan-honz,200,GET,,attorney bio
+2026-10-28T04:03:17.103813+00:00,firm_proxy,https://www.adventip.com/mallory-henninger,200,GET,,attorney bio
+2026-10-28T04:03:17.103830+00:00,firm_proxy,https://www.adventip.com/daneis-barber,200,GET,,attorney bio
+2026-10-28T04:03:17.103847+00:00,firm_proxy,https://www.adventip.com/erik-antonson,200,GET,,attorney bio
+2026-10-28T04:03:17.103863+00:00,firm_proxy,https://www.adventip.com/andrew-rodionov,200,GET,,attorney bio
+2026-10-28T04:03:17.103879+00:00,firm_proxy,https://www.adventip.com/andrea-rodriguez,200,GET,,attorney bio
+2026-10-28T04:03:17.103895+00:00,firm_proxy,https://www.adventip.com/kristy-marvel,200,GET,,attorney bio
+2026-10-28T04:03:17.103909+00:00,firm_proxy,https://www.adventip.com/shobana-lapuma,200,GET,,attorney bio
+2026-10-28T04:03:17.103924+00:00,firm_proxy,https://www.adventip.com/christina-chvala-index,200,GET,,attorney bio
+2026-10-28T04:03:17.103967+00:00,firm_proxy,https://www.adventip.com/natalia-cardona,200,GET,,attorney bio
+2026-10-28T04:03:17.103993+00:00,directory_proxy,https://law.usnews.com/law-firms/andrus-intellectual-property-law-llp-4903,200,GET,,directory snapshot
+2026-10-28T04:03:17.104013+00:00,firm_proxy,http://andruslaw.com/,200,GET,,homepage
+2026-10-28T04:03:17.104030+00:00,firm_proxy,http://andruslaw.com/attorneys/,200,GET,,attorney listing
+2026-10-28T04:03:17.104048+00:00,firm_proxy,http://andruslaw.com/attorneys/ryann-h-beck,200,GET,,attorney bio
+2026-10-28T04:03:17.104063+00:00,firm_proxy,http://andruslaw.com/attorneys/emily-m-chilson,200,GET,,attorney bio
+2026-10-28T04:03:17.104078+00:00,firm_proxy,http://andruslaw.com/attorneys/dillon-e-durnford,200,GET,,attorney bio
+2026-10-28T04:03:17.104093+00:00,directory_proxy,https://law.usnews.com/law-firms/artegis-law-group-llp-158980,200,GET,,directory snapshot
+2026-10-28T04:03:17.104108+00:00,firm_proxy,https://www.artegislaw.com/,200,GET,,homepage
+2026-10-28T04:03:17.104124+00:00,firm_proxy,https://www.artegislaw.com/john-carey,200,GET,,attorney bio
+2026-10-28T04:03:17.104138+00:00,firm_proxy,https://www.artegislaw.com/jason-liu,200,GET,,attorney bio
+2026-10-28T04:03:17.104153+00:00,firm_proxy,https://www.artegislaw.com/bret-mcclay,200,GET,,attorney bio
+2026-10-28T04:03:17.104167+00:00,firm_proxy,https://www.artegislaw.com/arvind-reddy,200,GET,,attorney bio
+2026-10-28T04:03:17.104181+00:00,firm_proxy,https://www.artegislaw.com/henry-welch,200,GET,,attorney bio
+2026-10-28T04:03:17.104195+00:00,firm_proxy,https://www.artegislaw.com/gregory-suh,200,GET,,attorney bio
+2026-10-28T04:03:17.104209+00:00,firm_proxy,https://www.artegislaw.com/flora-amwayi,200,GET,,attorney bio
+2026-10-28T04:03:17.104223+00:00,firm_proxy,https://www.artegislaw.com/danny-osborne,200,GET,,attorney bio
+2026-10-28T04:03:17.104238+00:00,firm_proxy,https://www.artegislaw.com/sean-whaley,200,GET,,attorney bio
+2026-10-28T04:03:17.104252+00:00,firm_proxy,https://www.artegislaw.com/robert-wagner,200,GET,,attorney bio
+2026-10-28T04:03:17.104267+00:00,directory_proxy,https://law.usnews.com/law-firms/avek-ip-159284,200,GET,,directory snapshot
+2026-10-28T04:03:17.104282+00:00,firm_proxy,https://avekip.com/,200,GET,,homepage
+2026-10-28T04:03:17.104296+00:00,firm_proxy,https://avekip.com/about/,200,GET,,attorney listing
+2026-10-28T04:03:17.104311+00:00,firm_proxy,https://avekip.com/team/,200,GET,,attorney listing
+2026-10-28T04:03:17.104326+00:00,firm_proxy,https://avekip.com/team/alexander-herman/,200,GET,,attorney bio
+2026-10-28T04:03:17.104345+00:00,firm_proxy,https://avekip.com/team/alexander-romza/,200,GET,,attorney bio
+2026-10-28T04:03:17.104360+00:00,firm_proxy,https://avekip.com/team/aubrey-helms-jr/,200,GET,,attorney bio
+2026-10-28T04:03:17.104375+00:00,firm_proxy,https://avekip.com/team/jacob-chappell/,200,GET,,attorney bio
+2026-10-28T04:03:17.104390+00:00,firm_proxy,https://avekip.com/team/mike-benoit/,200,GET,,attorney bio
+2026-10-28T04:03:17.104464+00:00,firm_proxy,https://avekip.com/team/robert-benke/,200,GET,,attorney bio
+2026-10-28T04:03:17.104483+00:00,firm_proxy,https://avekip.com/team/yu-zheng/,200,GET,,attorney bio
+2026-10-28T04:03:17.104498+00:00,firm_proxy,https://avekip.com/team/hissan-anis/,200,GET,,attorney bio
+2026-10-28T04:03:17.104513+00:00,firm_proxy,https://avekip.com/team/josh-blanton/,200,GET,,attorney bio
+2026-10-28T04:03:17.104527+00:00,firm_proxy,https://avekip.com/team/rachel-barkovitz/,200,GET,,attorney bio
+2026-10-28T04:03:17.104543+00:00,directory_proxy,https://law.usnews.com/law-firms/amin-turocy-&-watson-llp-3331,200,GET,,directory snapshot
+2026-10-28T04:03:17.104558+00:00,firm_proxy,https://thepatentattorneys.com/,200,GET,,homepage
+2026-10-28T04:03:17.104573+00:00,firm_proxy,https://thepatentattorneys.com/people,200,GET,,attorney listing
+2026-10-28T04:03:17.104589+00:00,firm_proxy,https://thepatentattorneys.com/people/himanshu-amin,200,GET,,attorney bio
+2026-10-28T04:03:17.104604+00:00,firm_proxy,https://thepatentattorneys.com/people/gregory-turocy,200,GET,,attorney bio
+2026-10-28T04:03:17.104618+00:00,firm_proxy,https://thepatentattorneys.com/people/thomas-watson,200,GET,,attorney bio
+2026-10-28T04:03:17.104633+00:00,firm_proxy,https://thepatentattorneys.com/people/richard-almon,200,GET,,attorney bio
+2026-10-28T04:03:17.104647+00:00,firm_proxy,https://thepatentattorneys.com/people/francis-dunn,200,GET,,attorney bio
+2026-10-28T04:03:17.104662+00:00,firm_proxy,https://thepatentattorneys.com/people/vinay-joshi,200,GET,,attorney bio
+2026-10-28T04:03:17.104677+00:00,firm_proxy,https://thepatentattorneys.com/people/erin-keller,200,GET,,attorney bio
+2026-10-28T04:03:17.104693+00:00,firm_proxy,https://thepatentattorneys.com/people/albert-michalik,200,GET,,attorney bio
+2026-10-28T04:03:17.104708+00:00,directory_proxy,https://law.usnews.com/law-firms/actuate-law-llc-158813,200,GET,,directory snapshot
+2026-10-28T04:03:17.104723+00:00,firm_proxy,https://actuatelaw.com/,200,GET,,homepage
+2026-10-28T04:03:17.104738+00:00,firm_proxy,https://www.actuatelaw.com/about,200,GET,,attorney listing
+2026-10-28T04:03:17.104752+00:00,firm_proxy,https://www.actuatelaw.com/michael-switzer,200,GET,,attorney bio
+2026-10-28T04:03:17.104767+00:00,firm_proxy,https://www.actuatelaw.com/doug-albritton,200,GET,,attorney bio
+2026-10-28T04:03:17.104781+00:00,firm_proxy,https://www.actuatelaw.com/mark-anderson,200,GET,,attorney bio
+2026-10-28T04:03:17.104796+00:00,firm_proxy,https://www.actuatelaw.com/stacy-baim,200,GET,,attorney bio
+2026-10-28T04:03:17.104810+00:00,firm_proxy,https://www.actuatelaw.com/peter-hawkins,200,GET,,attorney bio
+2026-10-28T04:03:17.104826+00:00,directory_proxy,https://law.usnews.com/law-firms/ashby-&-geddes-pa-1770,200,GET,,directory snapshot
+2026-10-28T04:03:17.104840+00:00,firm_proxy,http://ashbygeddes.com/,200,GET,,homepage
+2026-10-28T04:03:17.104853+00:00,firm_proxy,https://ashbygeddes.com/attorney2/,200,GET,,attorney listing
+2026-10-28T04:03:17.104869+00:00,firm_proxy,https://ashbygeddes.com/steven-j-balick-2/,200,GET,,attorney bio
+2026-10-28T04:03:17.104883+00:00,firm_proxy,https://ashbygeddes.com/john-g-day-2/,200,GET,,attorney bio
+2026-10-28T04:03:26.547602+00:00,directory_proxy,https://law.usnews.com/law-firms/actuate-law-llc-158813,200,GET,,directory snapshot
+2026-10-28T04:03:26.547644+00:00,firm_proxy,https://actuatelaw.com/,200,GET,,homepage
+2026-10-28T04:03:26.547664+00:00,firm_proxy,https://www.actuatelaw.com/about,200,GET,,attorney listing
+2026-10-28T04:03:26.547682+00:00,firm_proxy,https://www.actuatelaw.com/michael-switzer,200,GET,,attorney bio
+2026-10-28T04:03:26.547703+00:00,firm_proxy,https://www.actuatelaw.com/doug-albritton,200,GET,,attorney bio
+2026-10-28T04:03:26.547722+00:00,firm_proxy,https://www.actuatelaw.com/mark-anderson,200,GET,,attorney bio
+2026-10-28T04:03:26.547738+00:00,firm_proxy,https://www.actuatelaw.com/stacy-baim,200,GET,,attorney bio
+2026-10-28T04:03:26.547757+00:00,firm_proxy,https://www.actuatelaw.com/peter-hawkins,200,GET,,attorney bio
+2026-10-28T04:03:26.547779+00:00,directory_proxy,https://law.usnews.com/law-firms/artegis-law-group-llp-158980,200,GET,,directory snapshot
+2026-10-28T04:03:26.547797+00:00,firm_proxy,https://www.artegislaw.com/,200,GET,,homepage
+2026-10-28T04:03:26.547815+00:00,firm_proxy,https://www.artegislaw.com/john-carey,200,GET,,attorney bio
+2026-10-28T04:03:26.547832+00:00,firm_proxy,https://www.artegislaw.com/jason-liu,200,GET,,attorney bio
+2026-10-28T04:03:26.547847+00:00,firm_proxy,https://www.artegislaw.com/bret-mcclay,200,GET,,attorney bio
+2026-10-28T04:03:26.547863+00:00,firm_proxy,https://www.artegislaw.com/arvind-reddy,200,GET,,attorney bio
+2026-10-28T04:03:26.547879+00:00,firm_proxy,https://www.artegislaw.com/henry-welch,200,GET,,attorney bio
+2026-10-28T04:03:26.547894+00:00,firm_proxy,https://www.artegislaw.com/gregory-suh,200,GET,,attorney bio
+2026-10-28T04:03:26.547911+00:00,firm_proxy,https://www.artegislaw.com/flora-amwayi,200,GET,,attorney bio
+2026-10-28T04:03:26.547926+00:00,firm_proxy,https://www.artegislaw.com/danny-osborne,200,GET,,attorney bio
+2026-10-28T04:03:26.547943+00:00,firm_proxy,https://www.artegislaw.com/sean-whaley,200,GET,,attorney bio
+2026-10-28T04:03:26.547958+00:00,firm_proxy,https://www.artegislaw.com/robert-wagner,200,GET,,attorney bio
+2026-10-28T04:03:26.547975+00:00,directory_proxy,https://law.usnews.com/law-firms/advent-llp-161218,200,GET,,directory snapshot
+2026-10-28T04:03:26.548022+00:00,firm_proxy,https://www.adventip.com/,200,GET,,homepage
+2026-10-28T04:03:26.548041+00:00,firm_proxy,https://www.adventip.com/our-team,200,GET,,attorney listing
+2026-10-28T04:03:26.548058+00:00,firm_proxy,https://www.adventip.com/kevin-west,200,GET,,attorney bio
+2026-10-28T04:03:26.548073+00:00,firm_proxy,https://www.adventip.com/ryan-grace,200,GET,,attorney bio
+2026-10-28T04:03:26.548089+00:00,firm_proxy,https://www.adventip.com/dan-honz,200,GET,,attorney bio
+2026-10-28T04:03:26.548104+00:00,firm_proxy,https://www.adventip.com/mallory-henninger,200,GET,,attorney bio
+2026-10-28T04:03:26.548120+00:00,firm_proxy,https://www.adventip.com/daneis-barber,200,GET,,attorney bio
+2026-10-28T04:03:26.548135+00:00,firm_proxy,https://www.adventip.com/erik-antonson,200,GET,,attorney bio
+2026-10-28T04:03:26.548150+00:00,firm_proxy,https://www.adventip.com/andrew-rodionov,200,GET,,attorney bio
+2026-10-28T04:03:26.548166+00:00,firm_proxy,https://www.adventip.com/andrea-rodriguez,200,GET,,attorney bio
+2026-10-28T04:03:26.548182+00:00,firm_proxy,https://www.adventip.com/kristy-marvel,200,GET,,attorney bio
+2026-10-28T04:03:26.548197+00:00,firm_proxy,https://www.adventip.com/shobana-lapuma,200,GET,,attorney bio
+2026-10-28T04:03:26.548213+00:00,firm_proxy,https://www.adventip.com/christina-chvala-index,200,GET,,attorney bio
+2026-10-28T04:03:26.548230+00:00,firm_proxy,https://www.adventip.com/natalia-cardona,200,GET,,attorney bio
+2026-10-28T04:03:26.548247+00:00,directory_proxy,https://law.usnews.com/law-firms/amin-turocy-&-watson-llp-3331,200,GET,,directory snapshot
+2026-10-28T04:03:26.548272+00:00,firm_proxy,https://thepatentattorneys.com/,200,GET,,homepage
+2026-10-28T04:03:26.548291+00:00,firm_proxy,https://thepatentattorneys.com/people,200,GET,,attorney listing
+2026-10-28T04:03:26.548308+00:00,firm_proxy,https://thepatentattorneys.com/people/himanshu-amin,200,GET,,attorney bio
+2026-10-28T04:03:26.548324+00:00,firm_proxy,https://thepatentattorneys.com/people/gregory-turocy,200,GET,,attorney bio
+2026-10-28T04:03:26.548344+00:00,firm_proxy,https://thepatentattorneys.com/people/thomas-watson,200,GET,,attorney bio
+2026-10-28T04:03:26.548359+00:00,firm_proxy,https://thepatentattorneys.com/people/richard-almon,200,GET,,attorney bio
+2026-10-28T04:03:26.548378+00:00,firm_proxy,https://thepatentattorneys.com/people/francis-dunn,200,GET,,attorney bio
+2026-10-28T04:03:26.548394+00:00,firm_proxy,https://thepatentattorneys.com/people/vinay-joshi,200,GET,,attorney bio
+2026-10-28T04:03:26.548467+00:00,firm_proxy,https://thepatentattorneys.com/people/erin-keller,200,GET,,attorney bio
+2026-10-28T04:03:26.548485+00:00,firm_proxy,https://thepatentattorneys.com/people/albert-michalik,200,GET,,attorney bio
+2026-10-28T04:03:26.548502+00:00,directory_proxy,https://law.usnews.com/law-firms/andrus-intellectual-property-law-llp-4903,200,GET,,directory snapshot
+2026-10-28T04:03:26.548518+00:00,firm_proxy,http://andruslaw.com/,200,GET,,homepage
+2026-10-28T04:03:26.548534+00:00,firm_proxy,http://andruslaw.com/attorneys/,200,GET,,attorney listing
+2026-10-28T04:03:26.548552+00:00,firm_proxy,http://andruslaw.com/attorneys/ryann-h-beck,200,GET,,attorney bio
+2026-10-28T04:03:26.548568+00:00,firm_proxy,http://andruslaw.com/attorneys/emily-m-chilson,200,GET,,attorney bio
+2026-10-28T04:03:26.548585+00:00,firm_proxy,http://andruslaw.com/attorneys/dillon-e-durnford,200,GET,,attorney bio
+2026-10-28T04:03:26.548600+00:00,directory_proxy,https://law.usnews.com/law-firms/ashby-&-geddes-pa-1770,200,GET,,directory snapshot
+2026-10-28T04:03:26.548617+00:00,firm_proxy,http://ashbygeddes.com/,200,GET,,homepage
+2026-10-28T04:03:26.548632+00:00,firm_proxy,https://ashbygeddes.com/attorney2/,200,GET,,attorney listing
+2026-10-28T04:03:26.548649+00:00,firm_proxy,https://ashbygeddes.com/steven-j-balick-2/,200,GET,,attorney bio
+2026-10-28T04:03:26.548665+00:00,firm_proxy,https://ashbygeddes.com/john-g-day-2/,200,GET,,attorney bio
+2026-10-28T04:03:26.548681+00:00,directory_proxy,https://law.usnews.com/law-firms/avek-ip-159284,200,GET,,directory snapshot
+2026-10-28T04:03:26.548697+00:00,firm_proxy,https://avekip.com/,200,GET,,homepage
+2026-10-28T04:03:26.548713+00:00,firm_proxy,https://avekip.com/about/,200,GET,,attorney listing
+2026-10-28T04:03:26.548729+00:00,firm_proxy,https://avekip.com/team/,200,GET,,attorney listing
+2026-10-28T04:03:26.548746+00:00,firm_proxy,https://avekip.com/team/alexander-herman/,200,GET,,attorney bio
+2026-10-28T04:03:26.548761+00:00,firm_proxy,https://avekip.com/team/alexander-romza/,200,GET,,attorney bio
+2026-10-28T04:03:26.548777+00:00,firm_proxy,https://avekip.com/team/aubrey-helms-jr/,200,GET,,attorney bio
+2026-10-28T04:03:26.548793+00:00,firm_proxy,https://avekip.com/team/jacob-chappell/,200,GET,,attorney bio
+2026-10-28T04:03:26.548808+00:00,firm_proxy,https://avekip.com/team/mike-benoit/,200,GET,,attorney bio
+2026-10-28T04:03:26.548824+00:00,firm_proxy,https://avekip.com/team/robert-benke/,200,GET,,attorney bio
+2026-10-28T04:03:26.548839+00:00,firm_proxy,https://avekip.com/team/yu-zheng/,200,GET,,attorney bio
+2026-10-28T04:03:26.548855+00:00,firm_proxy,https://avekip.com/team/hissan-anis/,200,GET,,attorney bio
+2026-10-28T04:03:26.548870+00:00,firm_proxy,https://avekip.com/team/josh-blanton/,200,GET,,attorney bio
+2026-10-28T04:03:26.548886+00:00,firm_proxy,https://avekip.com/team/rachel-barkovitz/,200,GET,,attorney bio
+2026-10-28T04:03:39.398461+00:00,directory_proxy,https://law.usnews.com/law-firms/actuate-law-llc-158813,200,GET,,directory snapshot
+2026-10-28T04:03:39.398515+00:00,firm_proxy,https://actuatelaw.com/,200,GET,,homepage
+2026-10-28T04:03:39.398534+00:00,firm_proxy,https://www.actuatelaw.com/about,200,GET,,attorney listing
+2026-10-28T04:03:39.398551+00:00,firm_proxy,https://www.actuatelaw.com/michael-switzer,200,GET,,attorney bio
+2026-10-28T04:03:39.398567+00:00,firm_proxy,https://www.actuatelaw.com/doug-albritton,200,GET,,attorney bio
+2026-10-28T04:03:39.398585+00:00,firm_proxy,https://www.actuatelaw.com/mark-anderson,200,GET,,attorney bio
+2026-10-28T04:03:39.398602+00:00,firm_proxy,https://www.actuatelaw.com/stacy-baim,200,GET,,attorney bio
+2026-10-28T04:03:39.398619+00:00,firm_proxy,https://www.actuatelaw.com/peter-hawkins,200,GET,,attorney bio
+2026-10-28T04:03:39.398759+00:00,directory_proxy,https://law.usnews.com/law-firms/artegis-law-group-llp-158980,200,GET,,directory snapshot
+2026-10-28T04:03:39.398782+00:00,firm_proxy,https://www.artegislaw.com/,200,GET,,homepage
+2026-10-28T04:03:39.398802+00:00,firm_proxy,https://www.artegislaw.com/john-carey,200,GET,,attorney bio
+2026-10-28T04:03:39.398819+00:00,firm_proxy,https://www.artegislaw.com/jason-liu,200,GET,,attorney bio
+2026-10-28T04:03:39.398835+00:00,firm_proxy,https://www.artegislaw.com/bret-mcclay,200,GET,,attorney bio
+2026-10-28T04:03:39.398850+00:00,firm_proxy,https://www.artegislaw.com/arvind-reddy,200,GET,,attorney bio
+2026-10-28T04:03:39.398864+00:00,firm_proxy,https://www.artegislaw.com/henry-welch,200,GET,,attorney bio
+2026-10-28T04:03:39.398880+00:00,firm_proxy,https://www.artegislaw.com/gregory-suh,200,GET,,attorney bio
+2026-10-28T04:03:39.398895+00:00,firm_proxy,https://www.artegislaw.com/flora-amwayi,200,GET,,attorney bio
+2026-10-28T04:03:39.398910+00:00,firm_proxy,https://www.artegislaw.com/danny-osborne,200,GET,,attorney bio
+2026-10-28T04:03:39.398926+00:00,firm_proxy,https://www.artegislaw.com/sean-whaley,200,GET,,attorney bio
+2026-10-28T04:03:39.398942+00:00,firm_proxy,https://www.artegislaw.com/robert-wagner,200,GET,,attorney bio
+2026-10-28T04:03:39.398957+00:00,directory_proxy,https://law.usnews.com/law-firms/andrus-intellectual-property-law-llp-4903,200,GET,,directory snapshot
+2026-10-28T04:03:39.398973+00:00,firm_proxy,http://andruslaw.com/,200,GET,,homepage
+2026-10-28T04:03:39.398988+00:00,firm_proxy,http://andruslaw.com/attorneys/,200,GET,,attorney listing
+2026-10-28T04:03:39.399004+00:00,firm_proxy,http://andruslaw.com/attorneys/ryann-h-beck,200,GET,,attorney bio
+2026-10-28T04:03:39.399024+00:00,firm_proxy,http://andruslaw.com/attorneys/emily-m-chilson,200,GET,,attorney bio
+2026-10-28T04:03:39.399038+00:00,firm_proxy,http://andruslaw.com/attorneys/dillon-e-durnford,200,GET,,attorney bio
+2026-10-28T04:03:39.399080+00:00,directory_proxy,https://law.usnews.com/law-firms/avek-ip-159284,200,GET,,directory snapshot
+2026-10-28T04:03:39.399099+00:00,firm_proxy,https://avekip.com/,200,GET,,homepage
+2026-10-28T04:03:39.399114+00:00,firm_proxy,https://avekip.com/about/,200,GET,,attorney listing
+2026-10-28T04:03:39.399129+00:00,firm_proxy,https://avekip.com/team/,200,GET,,attorney listing
+2026-10-28T04:03:39.399144+00:00,firm_proxy,https://avekip.com/team/alexander-herman/,200,GET,,attorney bio
+2026-10-28T04:03:39.399160+00:00,firm_proxy,https://avekip.com/team/alexander-romza/,200,GET,,attorney bio
+2026-10-28T04:03:39.399174+00:00,firm_proxy,https://avekip.com/team/aubrey-helms-jr/,200,GET,,attorney bio
+2026-10-28T04:03:39.399189+00:00,firm_proxy,https://avekip.com/team/jacob-chappell/,200,GET,,attorney bio
+2026-10-28T04:03:39.399204+00:00,firm_proxy,https://avekip.com/team/mike-benoit/,200,GET,,attorney bio
+2026-10-28T04:03:39.399220+00:00,firm_proxy,https://avekip.com/team/robert-benke/,200,GET,,attorney bio
+2026-10-28T04:03:39.399235+00:00,firm_proxy,https://avekip.com/team/yu-zheng/,200,GET,,attorney bio
+2026-10-28T04:03:39.399250+00:00,firm_proxy,https://avekip.com/team/hissan-anis/,200,GET,,attorney bio
+2026-10-28T04:03:39.399266+00:00,firm_proxy,https://avekip.com/team/josh-blanton/,200,GET,,attorney bio
+2026-10-28T04:03:39.399281+00:00,firm_proxy,https://avekip.com/team/rachel-barkovitz/,200,GET,,attorney bio
+2026-10-28T04:03:39.399296+00:00,directory_proxy,https://law.usnews.com/law-firms/amin-turocy-&-watson-llp-3331,200,GET,,directory snapshot
+2026-10-28T04:03:39.399312+00:00,firm_proxy,https://thepatentattorneys.com/,200,GET,,homepage
+2026-10-28T04:03:39.399327+00:00,firm_proxy,https://thepatentattorneys.com/people,200,GET,,attorney listing
+2026-10-28T04:03:39.399343+00:00,firm_proxy,https://thepatentattorneys.com/people/himanshu-amin,200,GET,,attorney bio
+2026-10-28T04:03:39.399358+00:00,firm_proxy,https://thepatentattorneys.com/people/gregory-turocy,200,GET,,attorney bio
+2026-10-28T04:03:39.399373+00:00,firm_proxy,https://thepatentattorneys.com/people/thomas-watson,200,GET,,attorney bio
+2026-10-28T04:03:39.399391+00:00,firm_proxy,https://thepatentattorneys.com/people/richard-almon,200,GET,,attorney bio
+2026-10-28T04:03:39.399406+00:00,firm_proxy,https://thepatentattorneys.com/people/francis-dunn,200,GET,,attorney bio
+2026-10-28T04:03:39.399420+00:00,firm_proxy,https://thepatentattorneys.com/people/vinay-joshi,200,GET,,attorney bio
+2026-10-28T04:03:39.399435+00:00,firm_proxy,https://thepatentattorneys.com/people/erin-keller,200,GET,,attorney bio
+2026-10-28T04:03:39.399450+00:00,firm_proxy,https://thepatentattorneys.com/people/albert-michalik,200,GET,,attorney bio
+2026-10-28T04:03:39.399465+00:00,directory_proxy,https://law.usnews.com/law-firms/ashby-&-geddes-pa-1770,200,GET,,directory snapshot
+2026-10-28T04:03:39.399490+00:00,firm_proxy,http://ashbygeddes.com/,200,GET,,homepage
+2026-10-28T04:03:39.399507+00:00,firm_proxy,https://ashbygeddes.com/attorney2/,200,GET,,attorney listing
+2026-10-28T04:03:39.399527+00:00,firm_proxy,https://ashbygeddes.com/steven-j-balick-2/,200,GET,,attorney bio
+2026-10-28T04:03:39.399545+00:00,firm_proxy,https://ashbygeddes.com/john-g-day-2/,200,GET,,attorney bio
+2026-10-28T04:03:39.399564+00:00,directory_proxy,https://law.usnews.com/law-firms/advent-llp-161218,200,GET,,directory snapshot
+2026-10-28T04:03:39.399582+00:00,firm_proxy,https://www.adventip.com/,200,GET,,homepage
+2026-10-28T04:03:39.399600+00:00,firm_proxy,https://www.adventip.com/our-team,200,GET,,attorney listing
+2026-10-28T04:03:39.399620+00:00,firm_proxy,https://www.adventip.com/kevin-west,200,GET,,attorney bio
+2026-10-28T04:03:39.399638+00:00,firm_proxy,https://www.adventip.com/ryan-grace,200,GET,,attorney bio
+2026-10-28T04:03:39.399655+00:00,firm_proxy,https://www.adventip.com/dan-honz,200,GET,,attorney bio
+2026-10-28T04:03:39.399675+00:00,firm_proxy,https://www.adventip.com/mallory-henninger,200,GET,,attorney bio
+2026-10-28T04:03:39.399693+00:00,firm_proxy,https://www.adventip.com/daneis-barber,200,GET,,attorney bio
+2026-10-28T04:03:39.399711+00:00,firm_proxy,https://www.adventip.com/erik-antonson,200,GET,,attorney bio
+2026-10-28T04:03:39.399726+00:00,firm_proxy,https://www.adventip.com/andrew-rodionov,200,GET,,attorney bio
+2026-10-28T04:03:39.399742+00:00,firm_proxy,https://www.adventip.com/andrea-rodriguez,200,GET,,attorney bio
+2026-10-28T04:03:39.399757+00:00,firm_proxy,https://www.adventip.com/kristy-marvel,200,GET,,attorney bio
+2026-10-28T04:03:39.399772+00:00,firm_proxy,https://www.adventip.com/shobana-lapuma,200,GET,,attorney bio
+2026-10-28T04:03:39.399787+00:00,firm_proxy,https://www.adventip.com/christina-chvala-index,200,GET,,attorney bio
+2026-10-28T04:03:39.399802+00:00,firm_proxy,https://www.adventip.com/natalia-cardona,200,GET,,attorney bio

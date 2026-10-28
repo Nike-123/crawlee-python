@@ -1,0 +1,17 @@
+Metric,Value,Notes
+Total firms discovered in directory,120,Raw firm entries across directory pages (before dedup).
+Total unique firms processed (cap 100),100,After domain de-duplication; capped at 100.
+Total individual professionals discovered,50,Named professionals across all processed firms.
+Professionals with publicly listed e-mails,38,E-mail found on an official firm website (status: Published on Official Website).
+Professionals with LinkedIn profiles,5,LinkedIn URL found linked directly from an official firm website.
+General firm contacts (unattributed e-mails),0,E-mails such as info@ found on firm sites; not assigned to individuals.
+Firms successfully processed,7,Firms where at least one page was fetched.
+Firm websites inaccessible / blocked,93,"Includes robots.txt blocks, connection failures and HTTP errors."
+Directory pages fetched,6,U.S. News directory pages read (live or snapshot mode).
+Duplicate records removed (firms),1,Duplicate firms removed by normalized website domain.
+Duplicate professional records removed,,Professionals de-duplicated by name + firm + e-mail + profile URL.
+Firm pages visited,64,Homepages + attorney/team/sitemap pages successfully fetched.
+Firm pages with errors,0,Pages that failed to load after retries.
+E-mail verification method,,No verification API key was provided; statuses are 'Published on Official Website' or 'Not Found' only.
+Directory access mode,snapshot,live = direct requests to law.usnews.com; snapshot = saved directory pages.
+Directory blocker,,Non-empty when the directory could not be accessed automatically.
